@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 900" width="1900" height="900" font-family="Arial, Helvetica, sans-serif">
+<defs><radialGradient id="g" cx="50%" cy="40%" r="60%"><stop offset="0" stop-color="#ffd23d"/><stop offset=".55" stop-color="#ff7a1a"/><stop offset="1" stop-color="#ff2d87"/></radialGradient><filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="2.5" flood-opacity=".25"/></filter></defs>
+<rect width="1900" height="900" fill="#14111f"/>
+<text x="950.0" y="44" fill="#ffffff" font-size="26" font-weight="700" text-anchor="middle">CLOUT CLASH · project mindmap</text>
+<path d="M855.0,450.0 C760.0,450.0 780.0,261.0 722.0,261.0" stroke="#a855f7" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M598.0,261.0 C560.0,261.0 580.0,166.0 530.0,166.0" stroke="#a855f7" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="185.1" y="151.0" width="344.9" height="30" rx="15" fill="#221d33" stroke="#a855f7" stroke-width="2"/>
+<text x="357.5" y="171.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Rex Ironreps · Fitness · Protein Shot / Leg Day</text>
+<path d="M598.0,261.0 C560.0,261.0 580.0,204.0 530.0,204.0" stroke="#a855f7" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="175.8" y="189.0" width="354.2" height="30" rx="15" fill="#221d33" stroke="#a855f7" stroke-width="2"/>
+<text x="352.9" y="209.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Kira Framerate · Gaming · Pixel Blast / Rage Quit</text>
+<path d="M598.0,261.0 C560.0,261.0 580.0,242.0 530.0,242.0" stroke="#a855f7" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="167.7" y="227.0" width="362.3" height="30" rx="15" fill="#221d33" stroke="#a855f7" stroke-width="2"/>
+<text x="348.9" y="247.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Big Bao · Mukbang · Chili Breath / Noodle Tsunami</text>
+<path d="M598.0,261.0 C560.0,261.0 580.0,280.0 530.0,280.0" stroke="#a855f7" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="185.2" y="265.0" width="344.8" height="30" rx="15" fill="#221d33" stroke="#a855f7" stroke-width="2"/>
+<text x="357.6" y="285.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Dev Gadget · Tech · Phone Laser / Drone Strike</text>
+<path d="M598.0,261.0 C560.0,261.0 580.0,318.0 530.0,318.0" stroke="#a855f7" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="134.2" y="303.0" width="395.8" height="30" rx="15" fill="#221d33" stroke="#a855f7" stroke-width="2"/>
+<text x="332.1" y="323.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Lady Contour · Beauty · Lipstick Missile / Glitter Storm</text>
+<path d="M598.0,261.0 C560.0,261.0 580.0,356.0 530.0,356.0" stroke="#a855f7" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="225.9" y="341.0" width="304.1" height="30" rx="15" fill="#221d33" stroke="#a855f7" stroke-width="2"/>
+<text x="377.9" y="361.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Wanda Lust · Travel · Flash! / First Class</text>
+<rect x="598.0" y="240.0" width="124" height="42" rx="21" fill="#a855f7" filter="url(#s)"/>
+<text x="660.0" y="268.0" fill="#ffffff" font-size="19" font-weight="700" text-anchor="middle">Roster</text>
+<path d="M855.0,450.0 C760.0,450.0 780.0,507.0 722.0,507.0" stroke="#0ea5e9" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M598.0,507.0 C560.0,507.0 580.0,412.0 530.0,412.0" stroke="#0ea5e9" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="308.9" y="397.0" width="221.2" height="30" rx="15" fill="#221d33" stroke="#0ea5e9" stroke-width="2"/>
+<text x="419.4" y="417.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Best of 3 rounds · 60 s timer</text>
+<path d="M598.0,507.0 C560.0,507.0 580.0,450.0 530.0,450.0" stroke="#0ea5e9" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="284.9" y="435.0" width="245.2" height="30" rx="15" fill="#221d33" stroke="#0ea5e9" stroke-width="2"/>
+<text x="407.4" y="455.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Punch → punch → launcher chain</text>
+<path d="M598.0,507.0 C560.0,507.0 580.0,488.0 530.0,488.0" stroke="#0ea5e9" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="359.1" y="473.0" width="170.9" height="30" rx="15" fill="#221d33" stroke="#0ea5e9" stroke-width="2"/>
+<text x="444.5" y="493.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Air kicks and juggles</text>
+<path d="M598.0,507.0 C560.0,507.0 580.0,526.0 530.0,526.0" stroke="#0ea5e9" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="337.8" y="511.0" width="192.2" height="30" rx="15" fill="#221d33" stroke="#0ea5e9" stroke-width="2"/>
+<text x="433.9" y="531.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Guard with chip damage</text>
+<path d="M598.0,507.0 C560.0,507.0 580.0,564.0 530.0,564.0" stroke="#0ea5e9" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="274.9" y="549.0" width="255.1" height="30" rx="15" fill="#221d33" stroke="#0ea5e9" stroke-width="2"/>
+<text x="402.5" y="569.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Combo damage scaling (min 45%)</text>
+<path d="M598.0,507.0 C560.0,507.0 580.0,602.0 530.0,602.0" stroke="#0ea5e9" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="221.7" y="587.0" width="308.3" height="30" rx="15" fill="#221d33" stroke="#0ea5e9" stroke-width="2"/>
+<text x="375.9" y="607.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Super meter from dealing and taking hits</text>
+<rect x="598.0" y="486.0" width="124" height="42" rx="21" fill="#0ea5e9" filter="url(#s)"/>
+<text x="660.0" y="514.0" fill="#ffffff" font-size="19" font-weight="700" text-anchor="middle">Gameplay</text>
+<path d="M855.0,450.0 C760.0,450.0 780.0,696.0 722.0,696.0" stroke="#ef4444" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M598.0,696.0 C560.0,696.0 580.0,658.0 530.0,658.0" stroke="#ef4444" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="263.7" y="643.0" width="266.3" height="30" rx="15" fill="#221d33" stroke="#ef4444" stroke-width="2"/>
+<text x="396.8" y="663.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Arcade ladder · 5 rivals · rising AI</text>
+<path d="M598.0,696.0 C560.0,696.0 580.0,696.0 530.0,696.0" stroke="#ef4444" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="351.0" y="681.0" width="179.0" height="30" rx="15" fill="#221d33" stroke="#ef4444" stroke-width="2"/>
+<text x="440.5" y="701.0" fill="#f4f1ff" font-size="15" text-anchor="middle">2-player local Versus</text>
+<path d="M598.0,696.0 C560.0,696.0 580.0,734.0 530.0,734.0" stroke="#ef4444" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="387.9" y="719.0" width="142.1" height="30" rx="15" fill="#221d33" stroke="#ef4444" stroke-width="2"/>
+<text x="458.9" y="739.0" fill="#f4f1ff" font-size="15" text-anchor="middle">CPU vs CPU demo</text>
+<rect x="598.0" y="675.0" width="124" height="42" rx="21" fill="#ef4444" filter="url(#s)"/>
+<text x="660.0" y="703.0" fill="#ffffff" font-size="19" font-weight="700" text-anchor="middle">Modes</text>
+<path d="M1045.0,450.0 C1140.0,450.0 1120.0,157.0 1178.0,157.0" stroke="#f59e0b" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M1302.0,157.0 C1340.0,157.0 1320.0,119.0 1370.0,119.0" stroke="#f59e0b" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="104.0" width="212.2" height="30" rx="15" fill="#221d33" stroke="#f59e0b" stroke-width="2"/>
+<text x="1476.1" y="124.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Tekken-inspired 2D fighter</text>
+<path d="M1302.0,157.0 C1340.0,157.0 1320.0,157.0 1370.0,157.0" stroke="#f59e0b" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="142.0" width="216.4" height="30" rx="15" fill="#221d33" stroke="#f59e0b" stroke-width="2"/>
+<text x="1478.2" y="162.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Original parody influencers</text>
+<path d="M1302.0,157.0 C1340.0,157.0 1320.0,195.0 1370.0,195.0" stroke="#f59e0b" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="180.0" width="262.9" height="30" rx="15" fill="#221d33" stroke="#f59e0b" stroke-width="2"/>
+<text x="1501.4" y="200.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Powers drawn from content niche</text>
+<rect x="1178.0" y="136.0" width="124" height="42" rx="21" fill="#f59e0b" filter="url(#s)"/>
+<text x="1240.0" y="164.0" fill="#ffffff" font-size="19" font-weight="700" text-anchor="middle">Concept</text>
+<path d="M1045.0,450.0 C1140.0,450.0 1120.0,346.0 1178.0,346.0" stroke="#10b981" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M1302.0,346.0 C1340.0,346.0 1320.0,251.0 1370.0,251.0" stroke="#10b981" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="236.0" width="303.2" height="30" rx="15" fill="#221d33" stroke="#10b981" stroke-width="2"/>
+<text x="1521.6" y="256.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Vanilla JS + Canvas 2D, no dependencies</text>
+<path d="M1302.0,346.0 C1340.0,346.0 1320.0,289.0 1370.0,289.0" stroke="#10b981" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="274.0" width="340.6" height="30" rx="15" fill="#221d33" stroke="#10b981" stroke-width="2"/>
+<text x="1540.3" y="294.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Fixed 60 Hz loop, renders at any refresh rate</text>
+<path d="M1302.0,346.0 C1340.0,346.0 1320.0,327.0 1370.0,327.0" stroke="#10b981" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="312.0" width="237.5" height="30" rx="15" fill="#221d33" stroke="#10b981" stroke-width="2"/>
+<text x="1488.8" y="332.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Scene + fighter state machines</text>
+<path d="M1302.0,346.0 C1340.0,346.0 1320.0,365.0 1370.0,365.0" stroke="#10b981" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="350.0" width="253.7" height="30" rx="15" fill="#221d33" stroke="#10b981" stroke-width="2"/>
+<text x="1496.8" y="370.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Hit-stop, screen shake, particles</text>
+<path d="M1302.0,346.0 C1340.0,346.0 1320.0,403.0 1370.0,403.0" stroke="#10b981" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="388.0" width="324.4" height="30" rx="15" fill="#221d33" stroke="#10b981" stroke-width="2"/>
+<text x="1532.2" y="408.0" fill="#f4f1ff" font-size="15" text-anchor="middle">CPU AI uses the same input path as players</text>
+<path d="M1302.0,346.0 C1340.0,346.0 1320.0,441.0 1370.0,441.0" stroke="#10b981" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="426.0" width="312.4" height="30" rx="15" fill="#221d33" stroke="#10b981" stroke-width="2"/>
+<text x="1526.2" y="446.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Web Audio: music, voice, synthesized SFX</text>
+<rect x="1178.0" y="325.0" width="124" height="42" rx="21" fill="#10b981" filter="url(#s)"/>
+<text x="1240.0" y="353.0" fill="#ffffff" font-size="19" font-weight="700" text-anchor="middle">Engine</text>
+<path d="M1045.0,450.0 C1140.0,450.0 1120.0,554.0 1178.0,554.0" stroke="#ff2d87" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M1302.0,554.0 C1340.0,554.0 1320.0,497.0 1370.0,497.0" stroke="#ff2d87" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="482.0" width="291.2" height="30" rx="15" fill="#221d33" stroke="#ff2d87" stroke-width="2"/>
+<text x="1515.6" y="502.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Higgsfield AI: 6 sprite sheets, 3 stages</text>
+<path d="M1302.0,554.0 C1340.0,554.0 1320.0,535.0 1370.0,535.0" stroke="#ff2d87" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="520.0" width="262.1" height="30" rx="15" fill="#221d33" stroke="#ff2d87" stroke-width="2"/>
+<text x="1501.0" y="540.0" fill="#f4f1ff" font-size="15" text-anchor="middle">AI music loops + announcer voice</text>
+<path d="M1302.0,554.0 C1340.0,554.0 1320.0,573.0 1370.0,573.0" stroke="#ff2d87" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="558.0" width="295.4" height="30" rx="15" fill="#221d33" stroke="#ff2d87" stroke-width="2"/>
+<text x="1517.7" y="578.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Chroma key, slicing, foot/head anchors</text>
+<path d="M1302.0,554.0 C1340.0,554.0 1320.0,611.0 1370.0,611.0" stroke="#ff2d87" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="596.0" width="257.9" height="30" rx="15" fill="#221d33" stroke="#ff2d87" stroke-width="2"/>
+<text x="1499.0" y="616.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Total generation cost ≈ 26 credits</text>
+<rect x="1178.0" y="533.0" width="124" height="42" rx="21" fill="#ff2d87" filter="url(#s)"/>
+<text x="1240.0" y="561.0" fill="#ffffff" font-size="19" font-weight="700" text-anchor="middle">Assets</text>
+<path d="M1045.0,450.0 C1140.0,450.0 1120.0,724.0 1178.0,724.0" stroke="#6c5ce7" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M1302.0,724.0 C1340.0,724.0 1320.0,667.0 1370.0,667.0" stroke="#6c5ce7" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="652.0" width="292.1" height="30" rx="15" fill="#221d33" stroke="#6c5ce7" stroke-width="2"/>
+<text x="1516.0" y="672.0" fill="#f4f1ff" font-size="15" text-anchor="middle">build.py → one 3.8 MB offline index.html</text>
+<path d="M1302.0,724.0 C1340.0,724.0 1320.0,705.0 1370.0,705.0" stroke="#6c5ce7" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="690.0" width="266.2" height="30" rx="15" fill="#221d33" stroke="#6c5ce7" stroke-width="2"/>
+<text x="1503.1" y="710.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Byte-identical, reproducible builds</text>
+<path d="M1302.0,724.0 C1340.0,724.0 1320.0,743.0 1370.0,743.0" stroke="#6c5ce7" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="728.0" width="225.2" height="30" rx="15" fill="#221d33" stroke="#6c5ce7" stroke-width="2"/>
+<text x="1482.6" y="748.0" fill="#f4f1ff" font-size="15" text-anchor="middle">Headless Chrome smoke test</text>
+<path d="M1302.0,724.0 C1340.0,724.0 1320.0,781.0 1370.0,781.0" stroke="#6c5ce7" stroke-width="2.5" fill="none" opacity=".85"/>
+<rect x="1370.0" y="766.0" width="282.7" height="30" rx="15" fill="#221d33" stroke="#6c5ce7" stroke-width="2"/>
+<text x="1511.3" y="786.0" fill="#f4f1ff" font-size="15" text-anchor="middle">GitHub Pages hosting + touch controls</text>
+<rect x="1178.0" y="703.0" width="124" height="42" rx="21" fill="#6c5ce7" filter="url(#s)"/>
+<text x="1240.0" y="731.0" fill="#ffffff" font-size="19" font-weight="700" text-anchor="middle">Delivery</text>
+<circle cx="950.0" cy="450.0" r="96" fill="url(#g)" stroke="#ffffff" stroke-width="5" filter="url(#s)"/>
+<text x="950.0" y="444.0" fill="#1a0b2e" font-size="31" font-weight="900" font-style="italic" text-anchor="middle">CLOUT</text>
+<text x="950.0" y="478.0" fill="#1a0b2e" font-size="31" font-weight="900" font-style="italic" text-anchor="middle">CLASH</text>
+</svg>
