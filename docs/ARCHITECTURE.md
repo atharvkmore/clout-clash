@@ -22,7 +22,7 @@ flowchart LR
 | Section | Responsibility |
 |---|---|
 | **Constants & roster** | Canvas size (1280×720), world width (1700), the 6 fighter definitions (stats, move names, special/super kinds). |
-| **Asset loading** | Turns every data URI in `window.ASSETS` into an `Image`, counts loads, then builds circular portrait cards from each fighter's head point. |
+| **Asset loading** | Turns every data URI in `window.ASSETS` into an `Image`, counts loads, builds the palette-swapped fighters, then builds circular portrait cards from each fighter's head point. |
 | **Audio** | Web Audio graph: master → music gain + SFX gain. Music and voice clips are decoded from data URIs; music loops seamlessly. All sound effects (hits, whooshes, lasers, explosions) are **synthesized** from oscillators and filtered noise, so they cost no file size. |
 | **Input** | Keyboard map for two players, `pressed` (edge) vs `keys` (held) tracking, on-screen touch buttons created on first touch, and clickable "hot zones" for mouse/tap menu navigation. |
 | **Scene state** | `load → title → select → vs → fight → result / cont / ending`, plus `help`. |
@@ -30,6 +30,12 @@ flowchart LR
 | **AI** | `aiInput()` produces the same input object a human would, so CPU fighters go through exactly the same code path. |
 | **Rendering** | Parallax stage, shadows, sprites with squash/bob/flash effects, entities, particles, HUD, banners, menus. |
 | **Main loop** | Fixed-timestep loop driven by `requestAnimationFrame`. |
+
+## Palette-swapped fighters
+
+Six of the twelve fighters have no sprite files of their own. Their roster entry names a `base` fighter plus a colour transform (`hue`, `sat`, `bri`). Once every image has loaded, `buildVariants()` copies each base frame to a canvas and rotates the hue of every pixel with the same 3×3 matrix CSS uses for `hue-rotate`, then applies saturation and brightness.
+
+Pixels that look like skin (hue ≤ 38°, saturation 0.12–0.8) are skipped, so faces and arms keep natural tones while clothes, hair and props change colour. Frame metadata (anchors, sizes, reach) is shared with the base fighter, so hitboxes and animation work unchanged.
 
 ## Main loop
 
@@ -84,6 +90,12 @@ stateDiagram-v2
     idle --> jump
     idle --> special
     idle --> super: meter = 100
+    idle --> special2: down + special
+    idle --> dash: double-tap
+    idle --> throw: toward + punch, close
+    special2 --> idle
+    dash --> idle
+    throw --> idle
     punch --> punch: chain on hit
     punch --> kick: cancel / launcher
     jump --> airkick

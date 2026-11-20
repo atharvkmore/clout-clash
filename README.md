@@ -4,7 +4,7 @@
 
 ### The Influencer Fighting Championship
 
-**A Tekken-inspired 2D browser fighting game where six parody influencers battle with superpowers drawn from their content niche.**
+**A Tekken-inspired 2D browser fighting game where twelve parody influencers battle with superpowers drawn from their content niche.**
 
 [![Play now](https://img.shields.io/badge/▶%20PLAY%20NOW-in%20your%20browser-ff2d87?style=for-the-badge)](https://atharvkmore.github.io/clout-clash/)
 [![Download](https://img.shields.io/badge/⬇%20DOWNLOAD-offline%20.html-ffb020?style=for-the-badge)](https://raw.githubusercontent.com/atharvkmore/clout-clash/main/index.html)
@@ -23,9 +23,9 @@
 
 ## ✨ Highlights
 
-- **6 playable fighters**, each a parody of an influencer niche, with a unique special move and a cinematic super
-- **3 modes**: Arcade (5-match ladder with rising AI difficulty), 2-player local Versus, and CPU-vs-CPU demo
-- **Real fighting-game systems**: punch chains → launcher, air attacks, juggles, guarding with chip damage, hit-stop, combo damage scaling, super meter
+- **12 playable fighters**, each a parody of an influencer niche, with **two unique specials** and a cinematic super
+- **3 modes**: Arcade (6-match ladder with rising AI difficulty), 2-player local Versus, and CPU-vs-CPU demo
+- **Real fighting-game systems**: punch chains → launcher, air attacks, juggles, **dashes, backdashes, throws that beat guard, counters**, guarding with chip damage, hit-stop, combo damage scaling, super meter
 - **3 stages**, AI-generated character art, music and announcer voice
 - **One HTML file, no install, no internet**: every sprite, background, track and voice line is embedded
 - **Plays on touch screens**: on-screen buttons appear on first tap
@@ -47,6 +47,9 @@
 | Punch | `F` | `J` |
 | Kick | `G` | `K` |
 | Special power | `H` | `L` |
+| Special 2 | `S` + `H` | `↓` + `L` |
+| Dash / backdash | tap `D` `D` / `A` `A` | tap `→` `→` / `←` `←` |
+| Throw (up close, beats guard) | toward + `F` | toward + `J` |
 | Super (meter full) | `R` | `I` |
 
 `Esc`/`P` pause · `M` mute · In 1-player modes both key sets control Player 1.
@@ -55,24 +58,35 @@
 
 ## 🧑‍🤝‍🧑 Roster
 
-| | Fighter | Niche | HP | Speed | Special | Super |
-|---|---|---|---|---|---|---|
-| <img src="assets/sprites/rex/idle.webp" height="64"> | **Rex Ironreps** | Fitness | 112 | ●●○○ | Protein Shot: thrown shaker bottle | **Leg Day**: arena-wide ground slam that launches |
-| <img src="assets/sprites/kira/idle.webp" height="64"> | **Kira Framerate** | Gaming | 96 | ●●●● | Pixel Blast: fast pixel projectile | **Rage Quit**: three tracking lightning strikes |
-| <img src="assets/sprites/bao/idle.webp" height="64"> | **Big Bao** | Mukbang | 136 | ●○○○ | Chili Breath: close-range fire stream | **Noodle Tsunami**: giant noodle wave |
-| <img src="assets/sprites/dev/idle.webp" height="64"> | **Dev Gadget** | Tech reviews | 100 | ●●●○ | Phone Laser: instant full-screen beam | **Drone Strike**: drone drops 4 bombs |
-| <img src="assets/sprites/glam/idle.webp" height="64"> | **Lady Contour** | Beauty | 96 | ●●●○ | Lipstick Missile: homing rocket | **Glitter Storm**: screen-wide multi-hit storm |
-| <img src="assets/sprites/wanda/idle.webp" height="64"> | **Wanda Lust** | Travel vlogs | 102 | ●●●○ | Flash!: camera flash that stuns | **First Class**: a jet flies through the arena |
+| | Fighter | Niche | HP | Speed | Special | Special 2 (`↓`+Special) | Super |
+|---|---|---|---|---|---|---|---|
+| <img src="assets/sprites/rex/idle.webp" height="64"> | **Rex Ironreps** | Fitness | 112 | ●●○○ | Protein Shot: thrown shaker bottle | Pre-Workout Rush: charging shoulder dash | **Leg Day**: arena-wide ground slam that launches |
+| <img src="assets/sprites/kira/idle.webp" height="64"> | **Kira Framerate** | Gaming | 96 | ●●●● | Pixel Blast: fast pixel projectile | Lag Spike: teleport behind the rival and strike | **Rage Quit**: three tracking lightning strikes |
+| <img src="assets/sprites/bao/idle.webp" height="64"> | **Big Bao** | Mukbang | 136 | ●○○○ | Chili Breath: close-range fire stream | Snack Break: eat to heal 12 HP | **Noodle Tsunami**: giant noodle wave |
+| <img src="assets/sprites/dev/idle.webp" height="64"> | **Dev Gadget** | Tech reviews | 100 | ●●●○ | Phone Laser: instant full-screen beam | Unboxing: lobbed exploding package | **Drone Strike**: drone drops 4 bombs |
+| <img src="assets/sprites/glam/idle.webp" height="64"> | **Lady Contour** | Beauty | 96 | ●●●○ | Lipstick Missile: homing rocket | Contour Counter: counters any attack | **Glitter Storm**: screen-wide multi-hit storm |
+| <img src="assets/sprites/wanda/idle.webp" height="64"> | **Wanda Lust** | Travel vlogs | 102 | ●●●○ | Flash!: camera flash that stuns | Pole Vault: leap over the rival with a diving kick | **First Class**: a jet flies through the arena |
+
+| | **Max Hustle** | Finance | 110 | ●●○○ | Stonks Arrow: rising green arrow | Make It Rain: 3-coin spread | **Market Crash**: giant red arrow falls on the rival |
+| | **Luna Whisper** | ASMR | 92 | ●●●● | Whisper Wave: slow stunning ripple | Mic Tap: point-blank stun | **Tingle Trance**: puts the rival to sleep |
+| | **Big Mic** | Podcasts | 130 | ●○○○ | Hot Take: expanding sound wave | Mic Drop: slam that launches | **3-Hour Episode**: speech-bubble barrage |
+| | **Jax Jolt** | Pranks | 98 | ●●●○ | Whoopee Mine: hidden trap | Fake Out: invincible blink forward | **It's Just a Prank**: giant cake drop |
+| | **Zara Steps** | Dance | 94 | ●●●● | Trend Spin: multi-hit spinning dash | Moonwalk: invincible backslide | **Viral Challenge**: disco multi-hit |
+| | **Sage Bloom** | Wellness | 104 | ●●●○ | Chakra Palm: lotus projectile | Deep Breath: heal + meter | **Inner Peace**: heal 20 + shockwave |
+
+The six newer fighters reuse the original sprites, **recolored in code at load time** (skin tones are preserved). They add no new image files and cost no generation credits.
 
 All characters are original parodies of content *niches*. None depicts or is affiliated with a real person.
 
 ## 📸 Screenshots
 
-| Title | Character select |
+| Title | Special move |
 |---|---|
-| ![Title](docs/screenshots/title.jpg) | ![Select](docs/screenshots/select.jpg) |
-| **Special move** | **Super move** |
-| ![Special](docs/screenshots/fight-special.jpg) | ![Super](docs/screenshots/fight-super.jpg) |
+| ![Title](docs/screenshots/title.jpg) | ![Special](docs/screenshots/fight-special.jpg) |
+| **Super move** | **Gameplay GIF** |
+| ![Super](docs/screenshots/fight-super.jpg) | ![GIF](docs/screenshots/gameplay.gif) |
+| **Character select (12 fighters)** | **New fighters: Sage vs Jax** |
+| ![Select](docs/screenshots/select.jpg) | ![New fighters](docs/screenshots/new-fighters.jpg) |
 | **Versus screen** | **How to play** |
 | ![Versus](docs/screenshots/versus.jpg) | ![Help](docs/screenshots/how-to-play.jpg) |
 
@@ -82,8 +96,9 @@ All characters are original parodies of content *niches*. None depicts or is aff
 mindmap
   root((CLOUT CLASH))
     Gameplay
-      6 fighters
-      Specials and supers
+      12 fighters
+      2 specials + super each
+      Dashes, throws, counters
       Combos and juggles
       Super meter
     Modes
@@ -118,11 +133,11 @@ cd clout-clash
 python3 tools/build.py        # embeds src/ + assets/ into index.html
 ```
 
-Needs only Python 3 (standard library). The output is byte-for-byte identical to the published game. Details are in **[docs/BUILD_AND_DEPLOY.md](docs/BUILD_AND_DEPLOY.md)**.
+Needs only Python 3 (standard library). The build is deterministic: the same sources always produce the same file. Details are in **[docs/BUILD_AND_DEPLOY.md](docs/BUILD_AND_DEPLOY.md)**.
 
 ```bash
 npm install --no-save playwright-core
-CHROME=/path/to/chrome node tests/smoke_test.js   # menus, input, all supers, 6 full matches
+CHROME=/path/to/chrome node tests/smoke_test.js   # menus, input, all supers & specials, throws, dashes, 12 full matches
 ```
 
 ## 📁 Repository layout

@@ -36,6 +36,13 @@ mindmap
       Wanda Lust - Travel
         Camera Flash stun
         First Class jet
+      Palette swaps
+        Max Hustle - Finance
+        Luna Whisper - ASMR
+        Big Mic - Podcasts
+        Jax Jolt - Pranks
+        Zara Steps - Dance
+        Sage Bloom - Wellness
     Gameplay
       Best of 3 rounds
       60 second timer
@@ -43,6 +50,8 @@ mindmap
       Air kicks and juggles
       Guard and chip damage
       Combo damage scaling
+      Second specials
+      Dash backdash throw
       Super meter
     Modes
       Arcade ladder

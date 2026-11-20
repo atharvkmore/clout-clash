@@ -39,9 +39,10 @@ The smoke test:
 
 1. loads the game and waits for the title screen,
 2. starts Arcade with the keyboard, picks a fighter, walks and punches,
-3. forces a full meter for each of the 6 fighters and checks that their super fires,
-4. runs 6 full CPU-vs-CPU matches at accelerated speed and checks that each one ends,
-5. fails on any JavaScript error.
+3. forces a full meter for each of the 12 fighters and checks that their super fires,
+4. runs every fighter's second special, checks that a throw beats guard and a dash moves forward,
+5. runs a full CPU-vs-CPU match for each of the 12 fighters at accelerated speed and checks that each one ends,
+6. fails on any JavaScript error.
 
 ## Deploy (GitHub Pages)
 
@@ -52,6 +53,10 @@ Setup used for this repo: **Settings → Pages → Build and deployment → Depl
 Because the game is a single static file, it also works on any static host (Netlify, Vercel, itch.io as an HTML5 game, a USB stick…).
 
 ## Add a new fighter
+
+**Quickest way, no new art:** add a palette swap. Give the roster entry `base:'<existing id>'` and a colour transform such as `hue:120, sat:1.1, bri:1`; the six newer fighters work this way. Then pick its moves (step 3 below).
+
+**With new art:**
 
 1. **Generate a sprite sheet** with the prompt template in [ASSET_PIPELINE.md](ASSET_PIPELINE.md): 8 poses in the same order, on chroma green, facing right.
 2. Save it as `raw/c6.png`, add the new id to `IDS` in `tools/process_sprites.py`, and run the script. It writes `assets/sprites/<id>/*.webp` and the anchors into `assets/manifest.json`.

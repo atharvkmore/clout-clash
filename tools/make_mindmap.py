@@ -17,6 +17,12 @@ TREE = [
         'Dev Gadget · Tech · Phone Laser / Drone Strike',
         'Lady Contour · Beauty · Lipstick Missile / Glitter Storm',
         'Wanda Lust · Travel · Flash! / First Class',
+        'Max Hustle · Finance · Stonks Arrow / Market Crash',
+        'Luna Whisper · ASMR · Whisper Wave / Tingle Trance',
+        'Big Mic · Podcasts · Hot Take / 3-Hour Episode',
+        'Jax Jolt · Pranks · Whoopee Mine / Cake Prank',
+        'Zara Steps · Dance · Trend Spin / Viral Challenge',
+        'Sage Bloom · Wellness · Chakra Palm / Inner Peace',
     ]),
     ('Gameplay', '#0ea5e9', 'L', [
         'Best of 3 rounds · 60 s timer',
@@ -24,10 +30,12 @@ TREE = [
         'Air kicks and juggles',
         'Guard with chip damage',
         'Combo damage scaling (min 45%)',
+        'Second special on Down + Special',
+        'Dash, invincible backdash, throws beat guard',
         'Super meter from dealing and taking hits',
     ]),
     ('Modes', '#ef4444', 'L', [
-        'Arcade ladder · 5 rivals · rising AI',
+        'Arcade ladder · 6 rivals · rising AI',
         '2-player local Versus',
         'CPU vs CPU demo',
     ]),
@@ -46,6 +54,7 @@ TREE = [
     ]),
     ('Assets', '#ff2d87', 'R', [
         'Higgsfield AI: 6 sprite sheets, 3 stages',
+        '6 extra fighters = in-code palette swaps',
         'AI music loops + announcer voice',
         'Chroma key, slicing, foot/head anchors',
         'Total generation cost ≈ 26 credits',
@@ -58,7 +67,7 @@ TREE = [
     ]),
 ]
 
-W, H = 1900, 900
+W, H = 1900, 1180
 CX, CY = W / 2, H / 2
 LEAF_H, LEAF_GAP, GROUP_GAP = 30, 8, 26
 FONT = 'Arial, Helvetica, sans-serif'
